@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<foo
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://schem.as/foo"
+    schemaVersion="1.0" >
+    <name>bar</name>
+    <version>1.0</version>
+</foo>
